@@ -1,0 +1,298 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<title>@ViewBag.Title</title>
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Compras</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Registrar Compra</li>
+    </ol>
+</nav>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card border-info">
+            <div class="card-header bg-info text-white">
+                Registrar Compra
+            </div>
+            <div class="card-body card-compra p-2">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="card border-info">
+                            <div class="card-body p-2">
+                                <h6 class="card-title mb-1 text-info">Detalle Proveedor</h6>
+                                <div class="row align-items-end">
+                                    <input id="txtIdProveedor" type="hidden" value="0" />
+                                    <div class="col-sm-2">
+                                        <div class="form-group mb-0">
+                                            <label for="txtCodigoProveedor" class="col-form-label col-form-label-sm">Código:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtCodigoProveedor" name="CodigoProveedor">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-5">
+                                        <div class="form-group mb-0">
+                                            <label for="txtRazonSocialProveedor" class="col-form-label col-form-label-sm">Razón Social:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtRazonSocialProveedor" name="RazonSocial">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="form-group mb-0">
+                                            <button id="btnBuscarProveedor" type="button" class="btn btn-sm btn-success btn-block" onclick="buscarProveedor()"><i class="fas fa-search"></i> Buscar</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="card border-info">
+                            <div class="card-body p-2">
+                                <h6 class="card-title mb-1 text-info">Detalle Local </h6>
+                                <div class="row  align-items-end">
+                                    <input id="txtIdTienda" type="hidden" value="0" />
+                                    <div class="col-sm-2">
+                                        <div class="form-group mb-0">
+                                            <label for="txtCodigoTienda" class="col-form-label col-form-label-sm">Código:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtCodigoTienda" name="CodigoTienda">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-5">
+                                        <div class="form-group mb-0">
+                                            <label for="txtNombreTienda" class="col-form-label col-form-label-sm">Nombre:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtNombreTienda" name="NombreTienda">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-2">
+                    <div class="col-sm-12">
+                        <div class="card border-info">
+                            <div class="card-body p-2">
+                                <h6 class="card-title mb-1 text-info">Detalle Suministro</h6>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="row align-items-end">
+                                            <input id="txtIdProducto" type="hidden" value="0" />
+                                            <input id="txtIdIngrediente" type="hidden" />
+                                            <div class="col-sm-2">
+                                                <div class="form-group mb-0">
+                                                    <label for="txtCodigoProducto" class="col-form-label col-form-label-sm">Código:</label>
+                                                    <input type="text" class="form-control form-control-sm model" readonly id="txtCodigoProducto" name="Codigo" autocomplete="off">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <div class="form-group mb-0">
+                                                    <label for="txtNombreProducto" class="col-form-label col-form-label-sm">Nombre:</label>
+                                                    <input type="text" class="form-control form-control-sm model" readonly id="txtNombreProducto" name="Nombre">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-4">
+                                                <div class="form-group mb-0">
+                                                    <label for="txtDescripcionProducto" class="col-form-label col-form-label-sm">Descripción:</label>
+                                                    <input type="text" class="form-control form-control-sm model" readonly id="txtDescripcionProducto" name="Nombre">
+                                                </div>
+                                            </div>
+
+                                            @*buscar producto a comprar*@
+                                            <div class="col-sm-3">
+                                                <div class="form-group mb-0">
+                                                    <label for="btnBuscarTienda" class="col-form-label col-form-label-sm invisible">Buscar:</label>
+                                                    <button id="btnBuscarProducto" type="button" class="btn btn-sm btn-success btn-block" onclick="abrirPopUpForm(null)"><i class="fas fa-search"></i> Buscar</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="row align-items-end">
+                                            <div class="col-sm-4">
+                                                <div class="form-group mb-0">
+                                                    <label for="txtCantidadProducto" class="col-form-label col-form-label-sm">Cantidad:</label>
+                                                    <input type="text" class="form-control form-control-sm model" id="txtCantidadProducto" name="Cantidad" placeholder="0">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-4">
+                                                <div class="form-group mb-0">
+                                                    <label for="txtPrecioCompraProducto" class="col-form-label col-form-label-sm">Precio Compra: <span class="error"> C$.</span></label>
+                                                    <input type="text" class="form-control form-control-sm model" id="txtPrecioCompraProducto" name="PrecioCompra"  placeholder="00.00">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-4">
+                                                <div class="form-group mb-0">
+                                                    <label for="txtPrecioVentaProducto" class="col-form-label col-form-label-sm">Precio Venta: <span class="error"> C$.</span></label>
+                                                    <input type="text" class="form-control form-control-sm model" id="txtPrecioVentaProducto" name="PrecioVenta"  placeholder="00.00">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+                <div class="row mt-2">
+                    <div class="col-sm-12">
+                        <button id="btnAgregarCompra" class="btn btn-primary btn-sm float-right">
+                            <i class="fas fa-plus"></i> Agregar a compra
+                        </button>
+                    </div>
+
+                </div>
+
+                <hr />
+                <div class="row mt-3">
+                    <div class="col-sm-12">
+                        <div class="table-responsive-sm">
+                            <table id="tbCompra" class="table table-striped table-bordered nowrap table-sm" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th></th>
+                                      
+                                        <th>Código Producto</th>
+                                        <th>Nombre Producto</th>
+                                        <th>Cantidad</th>
+                                        <th>Precio Compra</th>
+                                        <th>Precio Venta</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer bg-white border-info">
+                <button id="btnTerminarGuardarCompra" class="btn btn-primary btn-sm float-right">
+                    <i class="fas fa-tags"></i> Terminar y Guardar Compra
+                </button>
+            </div>
+        </div>
+    </div>
+
+
+
+<!-- MODAL PROVEEDOR -->
+<div class="modal fade" id="modalProveedor" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title">Proveedores</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <div class="table-responsive">
+                    <table id="tbProveedor" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Código</th>
+                                <th>Razón Social</th>
+                                <th>Dirección</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- MODALES DE SUMINISTROS -->
+<!-- MODAL Bebidas -->
+<div class="modal fade" id="modalBebida" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg " role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title">Bebidas</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="col-sm-4 text-center mx-auto">
+                <button type="button" class="btn btn-sm btn-primary" onclick="buscarIngrediente()" id="btnIngredientesClick">
+                    <i class="fa fa-plus" aria-hidden="true"></i> Ingredientes
+                </button>
+            </div>
+            <div class="modal-body">
+               
+                <div class="table-responsive">
+                    <table id="tbBebida" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Código</th>
+                                <th>Suministro</th>
+                                <th>Nombre</th>
+                                <th>Descripción</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- MODAL Ingredientes -->
+<div class="modal fade" id="modalIngrediente" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg " role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title">Ingredientes</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="col-sm-4 text-center mx-auto">
+                <button type="button" class="btn btn-sm btn-primary" onclick="buscarBebida()" id="btnBebidasClick">
+                    <i class="fa fa-plus" aria-hidden="true"></i> Bebidas
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="table-responsive">
+                    <table id="tbIngrediente" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Código</th>
+                                <th>Suministro</th>
+                                <th>Nombre</th>
+                                <th>Descripción</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+
+    <partial name="_ValidationScriptsPartial" />
+    <script src="/js/ComprasCrear.js"></script>
+}

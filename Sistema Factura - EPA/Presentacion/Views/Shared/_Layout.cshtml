@@ -1,0 +1,150 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Presentacion.Helpers
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BAR Y RESTAURANTE EPA</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+   @*  <link rel="stylesheet" type="text/css" href="~/DataTables/DataTables-1.11.3/css/dataTables.bootstrap5.min.css" />
+    <link rel="stylesheet" type="text/css" href="~/DataTables/Buttons-2.0.1/css/buttons.bootstrap5.min.css" /> *@
+    <link rel="stylesheet" type="text/css" href="~/css/sweetalert2.css" />
+    <link rel="stylesheet" href="~/css/MyCustomized.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css" />
+
+
+    <!--========== BOX ICONS ==========-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+
+
+    <!-- ======= Icons used for dropdown  ======== -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+
+    @RenderSection("estilos", required: false)
+</head>
+<body >
+    <!--========== HEADER ==========-->
+    <header class="header">
+        <div class="header__container">
+            <div class="header__container">
+            <a href="#" class="nav__link nav__logo">
+                <img src="/img/logoEpa.png" style="width:50px; margin-top:30px;" />
+            </a>
+            <a class="header__logo" >Restaurante EPA</a>
+            </div>
+            <div class="header__container">
+
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hola! @User.Identity?.Name</a>
+                    @* <partial name="_LoginPartial" /> *@
+                    <form id="logoutForm" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Inicio", new { area = "" })">
+                        <a href="javascript:void(0);" onclick="document.getElementById('logoutForm').submit();" class="nav-link btn btn-link text-dark">
+                            <i class='bx bx-log-out-circle nav__icon'></i>
+                            <span>Salir</span>
+                        </a>
+                    </form>
+                    <div class="header__toggle">
+                        <i class='bx bx-menu' id="header-toggle"></i>
+                    </div>
+                }
+               
+            </div>
+           
+        </div>
+    </header>
+
+    <!--========== NAV ==========-->
+  @if( SignInManager.IsSignedIn(User)){
+    <div class="nav" id="navbar">
+        <nav class="nav__container">
+            <div>
+               
+                <div class="nav__list">
+                        <div class="nav__items">
+                            <h3 class="nav__subtitle">Perfil</h3>
+
+                            <a asp-area="" asp-controller="Inicio" asp-action="Index" class="nav__link active">
+                                <i class='bx bx-home nav__icon'></i>
+                                <span class="nav__name">Home</span>
+                            </a>
+                            @if (User.IsInRole("SuperAdmin"))
+                            {
+                                <a asp-controller="Sucursal" asp-action="ViewSucursal" class="nav__link">
+                                    <i class='bx bx-store-alt nav__icon'></i>
+                                    <span class="nav__name">Negocio</span>
+                                </a>
+                            }
+                        </div>
+
+                        <div class="nav__items">
+                            <h3 class="nav__subtitle">Menu</h3>
+                            @Html.ActionLinkAllow()
+                        </div>
+                    </div>
+            </div>
+            
+        </nav>
+            
+    </div>
+    }
+    <!--========== CONTENTS ==========-->
+    <main >
+        @RenderBody()
+    </main>
+
+    <footer class="border-top footer text-muted">
+        <div class="align-items-center text-center text-md-center py-4 px-1 px-xl-6 bg-primary">
+            <!-- Copyright -->
+            <div class="text-white">
+                © @DateTime.Now.Year. Todos los derechos Reservados.
+            </div>
+            <!-- Copyright -->
+        </div>
+    </footer>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @* <script src="~/js/jquery-3.3.1.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script> 
+
+    <script type="text/javascript" src="~/DataTables/JSZip-2.5.0/jszip.min.js"></script>
+    <script type="text/javascript" src="~/DataTables/pdfmake-0.1.36/pdfmake.min.js"></script>
+    <script type="text/javascript" src="~/DataTables/pdfmake-0.1.36/vfs_fonts.js"></script>
+    <script type="text/javascript" src="~/DataTables/DataTables-1.11.3/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="~/DataTables/DataTables-1.11.3/js/dataTables.bootstrap5.min.js"></script>
+    <script type="text/javascript" src="~/DataTables/Buttons-2.0.1/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="~/DataTables/Buttons-2.0.1/js/buttons.bootstrap5.min.js"></script>
+    <script type="text/javascript" src="~/DataTables/Buttons-2.0.1/js/buttons.colVis.min.js"></script>
+    <script type="text/javascript" src="~/DataTables/Buttons-2.0.1/js/buttons.html5.min.js"></script>
+    <script type="text/javascript" src="~/DataTables/Buttons-2.0.1/js/buttons.print.min.js"></script> *@
+    <script type="text/javascript" src="~/js/sweetalert2.all.js"></script>
+
+   
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.5.0/js/responsive.bootstrap4.min.js"></script>
+
+
+
+    <!--========== MAIN JS ==========-->
+    <script src="~/js/main.js"></script>
+      <!--========== FONT AWESOME ==========-->
+    <script src="https://kit.fontawesome.com/0f85c3e46d.js" crossorigin="anonymous"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+
+</html>

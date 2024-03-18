@@ -1,0 +1,27 @@
+﻿@page
+@model GenerateRecoveryCodesModel
+@{
+    ViewData["Title"] = "Generar códigos de recuperación de autenticación de dos factores (2FA)";
+    ViewData["ActivePage"] = ManageNavPages.TwoFactorAuthentication;
+}
+
+<partial name="_StatusMessage" for="StatusMessage" />
+<h4>@ViewData["Title"]</h4>
+<div class="alert alert-warning" role="alert">
+    <p>
+        <span class="glyphicon glyphicon-warning-sign"></span>
+        <strong>Guarde estos códigos en un lugar seguro.</strong>
+    </p>
+    <p>
+        Si pierde su dispositivo y no tiene los códigos de recuperación, perderá el acceso a su cuenta.
+    </p>
+    <p>
+        La generación de nuevos códigos de recuperación no cambia las claves utilizadas en las aplicaciones de autenticación. Si desea cambiar la clave
+        utilizado en una aplicación de autenticación, debe <a asp-page="./ResetAuthenticator">restablezcer sus claves de autenticación.</a>
+    </p>
+</div>
+<div>
+    <form method="post" class="form-group">
+        <button class="btn btn-danger" type="submit">Generar códigos de recuperación</button>
+    </form>
+</div>

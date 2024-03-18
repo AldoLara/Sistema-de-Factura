@@ -1,0 +1,29 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Microsoft.EntityFrameworkCore;
+@using Datos.EmpleadosCD
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <li class="nav-item">
+            <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Inicio", new { area = "" })">
+                <a href="javascript:void(0);" onclick="document.getElementById('logoutForm').submit();" class="nav-link btn btn-link text-dark">
+                    <i class='bx bx-log-out-circle nav__icon'></i>
+                    <span class="nav__name">Salir</span>
+                </a>
+            </form>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">
+                <i class='bx bx-log-in-circle nav__icon'></i>
+                <span class="nav__name">Login</span>
+            </a>
+        </li>
+    }
+</ul>
+

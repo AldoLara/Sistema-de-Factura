@@ -1,0 +1,330 @@
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.dll
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\aldo vanegas\Desktop\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.dll
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema_Login_Tablas\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Epa\Sistema\SistemaEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Epa\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Modelo.dll
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Epa (Viejo que yo envie)-1\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\UNIFICADO\Epa UNIFICADO\Sistema\ProyectoEPA(UNIFICADO)\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Modelo.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Modelo.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\crist\OneDrive\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema-4\Sistema\Actualizacion (Usuario,Roles,Permisos)\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas y Detalles)\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema-6\Sistema\Ya esta Todo (Creo)\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema\Sistema Factura - EPA\Datos\obj\Debug\net6.0\ref\Datos.dll
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Datos.deps.json
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Modelo.dll
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\bin\Debug\net6.0\Modelo.pdb
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.dll
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\refint\Datos.dll
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\Datos.pdb
+D:\Escritorio\Sistema EPA\Sistema Factura - EPA\Datos\obj\Debug\net6.0\ref\Datos.dll

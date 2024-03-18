@@ -1,0 +1,33 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<body class="sectionimg">
+<form class="formulario" method="post">
+    <h1 class="h1Form">Iniciar Sesión</h1>
+    <div class="contenedor">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="input-contenedor">
+            <i class="fas fa-envelope icon"></i>
+           <input asp-for="Input.Email" type="text" placeholder="Correo Electrónico" class="inputTipo">
+        </div>
+
+        <div class="input-contenedor">
+            <i class="fas fa-key icon"></i>
+            <input asp-for="Input.Password" type="password" placeholder="Contraseña" class="inputTipo">
+
+        </div>
+        <input type="submit" value="Iniciar sesión" class="button">
+    </div>
+        <div class="form-group mb-3">
+            <a asp-page="./ForgotPassword" class="btn btn-link">¿Olvidaste tu contraseña?</a>
+        </div>
+</form>
+</body>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Permisos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="cabe">
+    <div class="d-flex align-items-center" style="height: 7vh;">
+        <div class="me-3 " id="v-pills-tab" role="tablist" aria-orientation="horizontal">
+            <a class="custom-margin-right @(Context.Request.RouteValues["action"].ToString() == "ViewUsuarios" && Context.Request.RouteValues["controller"].ToString() == "Usuario" ? "active" : "")" asp-area="" asp-controller="Usuario" asp-action="ViewUsuarios">Usuarios</a>  |
+            <a class="custom-margin-right @(Context.Request.RouteValues["action"].ToString() == "ViewPermisos" && Context.Request.RouteValues["controller"].ToString() == "Permiso" ? "active" : "")" asp-controller="Permiso" asp-action="ViewPermisos">Permisos</a>|
+            <a class="custom-margin-right @(Context.Request.RouteValues["action"].ToString() == "ViewRoles" && Context.Request.RouteValues["controller"].ToString() == "Role" ? "active" : "")" asp-controller="Role" asp-action="ViewRoles">Roles</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card border-info">
+            <div class="card-header bg-info text-white">
+                Asignar Permisos
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <label>Seleccion Rol:</label>
+                    </div>
+                    <div class="col-sm-3">
+                        <select class="form-control form-control-sm model" id="cboRol" name="Activo"></select>
+                    </div>
+                    <div class="col-sm-2">
+                        <button id="btnBuscar" type="button" class="btn btn-sm btn-primary btn-block" onclick="buscar()"> <i class="fas fa-search"></i> Buscar</button>
+                    </div>
+                    <div class="col-sm-2">
+                        <button id="btnGuardarCambios" class="btn btn-sm btn-success btn-block" onclick="Guardar()"><i class="fas fa-save"></i> Guardar Cambios</button>
+                    </div>
+                </div>
+                <hr />
+                <div class="row mt-3 card-load">
+                    <div class="col-sm-12">
+                        <div class="table-responsive">
+                            <table id="tbpermiso" class="table table-bordered table-sm" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Activar</th>
+                                        <th>Menu</th>
+                                        <th>Sub Menu</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/Permiso.js"></script> 
+}

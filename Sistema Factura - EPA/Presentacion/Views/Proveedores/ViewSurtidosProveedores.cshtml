@@ -1,0 +1,15 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="cabe">
+    <div class="d-flex align-items-center" style="height: 7vh;">
+        <div class="me-3 " id="v-pills-tab" role="tablist" aria-orientation="horizontal">
+            <a class="custom-margin-right @(Context.Request.RouteValues["action"].ToString() == "ViewProveedores" && Context.Request.RouteValues["controller"].ToString() == "Proveedor" ? "active" : "")" asp-controller="Proveedor" asp-action="ViewProveedores">Proveedores</a>|
+            <a class="custom-margin-right @(Context.Request.RouteValues["action"].ToString() == "ViewSurtidosProveedores" && Context.Request.RouteValues["controller"].ToString() == "SurtidoProveedor" ? "active" : "")" asp-controller="SurtidoProveedor" asp-action="ViewSurtidosProveedores">Surtidos</a>
+        </div>
+    </div>
+</div>
+
+
+    <h2>Esta es la pagina Surtido Proveedores</h2>

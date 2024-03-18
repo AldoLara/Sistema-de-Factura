@@ -1,0 +1,66 @@
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\bin\Release\net6.0\Modelo.deps.json
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\bin\Release\net6.0\Modelo.dll
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\bin\Release\net6.0\Modelo.pdb
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.AssemblyInfo.cs
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.dll
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\refint\Modelo.dll
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.pdb
+C:\Users\aldo vanegas\Desktop\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\ref\Modelo.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\bin\Release\net6.0\Modelo.deps.json
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\bin\Release\net6.0\Modelo.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\bin\Release\net6.0\Modelo.pdb
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.AssemblyInfo.cs
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\refint\Modelo.dll
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\Modelo.pdb
+C:\Users\Aldo\OneDrive\Escritorio\Sistema\SistemaEPA\Modelo\obj\Release\net6.0\ref\Modelo.dll
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\bin\Release\net6.0\Modelo.deps.json
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\bin\Release\net6.0\Modelo.dll
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\bin\Release\net6.0\Modelo.pdb
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.AssemblyInfoInputs.cache
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.AssemblyInfo.cs
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.csproj.CoreCompileInputs.cache
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.dll
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\refint\Modelo.dll
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.pdb
+D:\Escritorio\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\ref\Modelo.dll
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\bin\Release\net6.0\Modelo.deps.json
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\bin\Release\net6.0\Modelo.dll
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\bin\Release\net6.0\Modelo.pdb
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.AssemblyInfoInputs.cache
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.AssemblyInfo.cs
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.csproj.CoreCompileInputs.cache
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.dll
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\refint\Modelo.dll
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\Modelo.pdb
+D:\Escritorio\UNIFICADO\Epa (Viejo que yo envie)\Sistema\ProyectoEPA\Modelo\obj\Release\net6.0\ref\Modelo.dll
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\bin\Release\net6.0\Modelo.deps.json
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\bin\Release\net6.0\Modelo.dll
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\bin\Release\net6.0\Modelo.pdb
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\obj\Release\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\obj\Release\net6.0\Modelo.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\obj\Release\net6.0\Modelo.AssemblyInfo.cs
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\obj\Release\net6.0\Modelo.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\obj\Release\net6.0\Modelo.dll
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\obj\Release\net6.0\refint\Modelo.dll
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\obj\Release\net6.0\Modelo.pdb
+D:\Escritorio\Sistema\Actualizacion (Compras y Detalles)\Modelo\obj\Release\net6.0\ref\Modelo.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\bin\Release\net6.0\Modelo.deps.json
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\bin\Release\net6.0\Modelo.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\bin\Release\net6.0\Modelo.pdb
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\obj\Release\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\obj\Release\net6.0\Modelo.AssemblyInfoInputs.cache
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\obj\Release\net6.0\Modelo.AssemblyInfo.cs
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\obj\Release\net6.0\Modelo.csproj.CoreCompileInputs.cache
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\obj\Release\net6.0\Modelo.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\obj\Release\net6.0\refint\Modelo.dll
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\obj\Release\net6.0\Modelo.pdb
+D:\Escritorio\Sistema-5\Sistema\Actualizacion (Ventas ,Detalles y Reporte)\Modelo\obj\Release\net6.0\ref\Modelo.dll

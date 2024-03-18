@@ -1,0 +1,1289 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\tests\\mixins\\_color-modes.test.scss",
+      "PackagePath": "staticwebassets\\scss\\tests\\mixins\\_color-modes.test.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\tests\\mixins\\_media-query-color-mode-full.test.scss",
+      "PackagePath": "staticwebassets\\scss\\tests\\mixins\\_media-query-color-mode-full.test.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\tests\\mixins\\_utilities.test.scss",
+      "PackagePath": "staticwebassets\\scss\\tests\\mixins\\_utilities.test.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\tests\\utilities\\_api.test.scss",
+      "PackagePath": "staticwebassets\\scss\\tests\\utilities\\_api.test.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\laraa\\.nuget\\packages\\bootstrap.sass\\5.3.2\\contentFiles\\any\\any\\wwwroot\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Presentacion.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Presentacion.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap5.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap5.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.bulma.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.bulma.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.bulma.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.bulma.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.dataTables.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.foundation.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.foundation.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.jqueryui.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.jqueryui.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.semanticui.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\buttons.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\buttons.semanticui.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\common.scss",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\common.scss"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\css\\mixins.scss",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\css\\mixins.scss"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap5.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap5.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.bulma.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.bulma.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.bulma.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.bulma.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.dataTables.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.foundation.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.foundation.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.jqueryui.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.jqueryui.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.print.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.semanticui.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\buttons.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\buttons.semanticui.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\Buttons-2.0.1\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.0.1\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\DataTables-1.11.3\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.11.3\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\JSZip-2.5.0\\jszip.js",
+      "PackagePath": "staticwebassets\\DataTables\\JSZip-2.5.0\\jszip.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\JSZip-2.5.0\\jszip.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\JSZip-2.5.0\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\pdfmake-0.1.36\\pdfmake.js",
+      "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.1.36\\pdfmake.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\pdfmake-0.1.36\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.1.36\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\DataTables\\pdfmake-0.1.36\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.1.36\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\css\\MyCustomized.css",
+      "PackagePath": "staticwebassets\\css\\MyCustomized.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\css\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\css\\sweetalert2.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\img\\Epa.jpg",
+      "PackagePath": "staticwebassets\\img\\Epa.jpg"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\img\\EpaInicio.jpg",
+      "PackagePath": "staticwebassets\\img\\EpaInicio.jpg"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\img\\epa.jpeg",
+      "PackagePath": "staticwebassets\\img\\epa.jpeg"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\img\\imagen.jpg",
+      "PackagePath": "staticwebassets\\img\\imagen.jpg"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\img\\logoEpa - copia.png",
+      "PackagePath": "staticwebassets\\img\\logoEpa - copia.png"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\img\\logoEpa.jpg",
+      "PackagePath": "staticwebassets\\img\\logoEpa.jpg"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\img\\logoEpa.png",
+      "PackagePath": "staticwebassets\\img\\logoEpa.png"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\img\\logoEpa.svg",
+      "PackagePath": "staticwebassets\\img\\logoEpa.svg"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\img\\perfil.jpg",
+      "PackagePath": "staticwebassets\\img\\perfil.jpg"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Bebidas.js",
+      "PackagePath": "staticwebassets\\js\\Bebidas.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Categorias.js",
+      "PackagePath": "staticwebassets\\js\\Categorias.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Comida.js",
+      "PackagePath": "staticwebassets\\js\\Comida.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\CompraConsultarJS.js",
+      "PackagePath": "staticwebassets\\js\\CompraConsultarJS.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\ComprasJS.js",
+      "PackagePath": "staticwebassets\\js\\ComprasJS.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Ingrediente.js",
+      "PackagePath": "staticwebassets\\js\\Ingrediente.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\InventarioBebidas.js",
+      "PackagePath": "staticwebassets\\js\\InventarioBebidas.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\InventarioIngredientes.js",
+      "PackagePath": "staticwebassets\\js\\InventarioIngredientes.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Mesas.js",
+      "PackagePath": "staticwebassets\\js\\Mesas.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Permiso.js",
+      "PackagePath": "staticwebassets\\js\\Permiso.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Promocion.js",
+      "PackagePath": "staticwebassets\\js\\Promocion.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Proveedor.js",
+      "PackagePath": "staticwebassets\\js\\Proveedor.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\ReporteCompras.js",
+      "PackagePath": "staticwebassets\\js\\ReporteCompras.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\ReporteVentas.js",
+      "PackagePath": "staticwebassets\\js\\ReporteVentas.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Rol.js",
+      "PackagePath": "staticwebassets\\js\\Rol.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Sucursal.js",
+      "PackagePath": "staticwebassets\\js\\Sucursal.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Usuarios.js",
+      "PackagePath": "staticwebassets\\js\\Usuarios.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\Venta.js",
+      "PackagePath": "staticwebassets\\js\\Venta.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\VentasConsultar.js",
+      "PackagePath": "staticwebassets\\js\\VentasConsultar.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets.rar",
+      "PackagePath": "staticwebassets\\js\\assets.rar"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\bootstrap\\js\\npm.js",
+      "PackagePath": "staticwebassets\\js\\assets\\bootstrap\\js\\npm.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\swal2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\js\\assets\\swal2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\assets\\swal2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\js\\assets\\swal2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\qr.js",
+      "PackagePath": "staticwebassets\\js\\qr.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\js\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert2.all.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6.zip",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6.zip"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6\\.gitignore"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\README.md",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6\\README.md"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6\\bower.json"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\index-svg.html",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6\\index-svg.html"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\index.html",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6\\index.html"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\index.svg",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6\\index.svg"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\qrcode.js",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6\\qrcode.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\davidshimjs-qrcodejs-04f46c6\\qrcode.min.js",
+      "PackagePath": "staticwebassets\\lib\\davidshimjs-qrcodejs-04f46c6\\qrcode.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Escritorio\\Sistema-5\\Sistema\\Actualizacion (Ventas ,Detalles y Reporte)\\Presentacion\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Presentacion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Presentacion.props",
+      "PackagePath": "build\\Presentacion.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Presentacion.props",
+      "PackagePath": "buildMultiTargeting\\Presentacion.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Presentacion.props",
+      "PackagePath": "buildTransitive\\Presentacion.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,24 @@
+﻿@page
+@model ResetAuthenticatorModel
+@{
+    ViewData["Title"] = "Restablecer clave de autenticación";
+    ViewData["ActivePage"] = ManageNavPages.TwoFactorAuthentication;
+}
+
+<partial name="_StatusMessage" for="StatusMessage" />
+<h4 class="card-header bg-white text-primary " style="width:75%">@ViewData["Title"]</h4>
+<div class="alert alert-warning" role="alert">
+    <p>
+        <span class="glyphicon glyphicon-warning-sign"></span>
+        <strong>Si restableces tu clave de autenticación, tu aplicación de autenticación no funcionará hasta que la reconfigures.</strong>
+    </p>
+    <p>
+        Este proceso deshabilita 2FA hasta que verifique su aplicación de autenticación.
+        Si no completa la configuración de la aplicación de autenticación, puede perder el acceso a su cuenta.
+    </p>
+</div>
+<div>
+    <form id="reset-authenticator-form" method="post" class="form-group">
+        <button id="reset-authenticator-button" class="btn btn-danger" type="submit">Restablecer clave</button>
+    </form>
+</div>

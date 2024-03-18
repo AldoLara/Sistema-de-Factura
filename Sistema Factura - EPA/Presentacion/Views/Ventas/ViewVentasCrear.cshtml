@@ -1,0 +1,775 @@
+﻿@{
+    ViewBag.Title = "Crear Venta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Ventas</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Registrar Venta</li>
+    </ol>
+</nav>
+
+@section estilos {
+    <style>
+        #inner-right {
+            max-height: 300px;
+            overflow-y: scroll;
+        }
+
+        .tabs {
+            overflow: hidden;
+            background-color: #f1f1f1;
+        }
+
+        .tablink {
+            /* background-color: #f1f1f1; */
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            font-size: 17px;
+        }
+
+            .tablink:hover {
+                background-color: #ddd;
+            }
+
+        .tabcontent {
+            display: none;
+            margin-top: 20px;
+            width: 100%;
+            transition: opacity 0.9s ease;
+          
+        }
+
+
+        .show {
+            display: block;
+        }
+
+
+      
+    </style>
+}
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card border-info">
+            <div class="card-header p-2 bg-info text-white">
+                
+                <button id="btnTerminarGuardarVenta" class="btn btn-warning btn-sm float-right ml-2">
+                    <!-- Agrega un margen a la derecha -->
+                    <i class="fa fa-print" aria-hidden="true"></i> Imprimir y Registrar
+                </button>
+
+                <button id="btnCierreVenta" class="btn btn-primary btn-sm float-right mr-3">
+                    <!-- Agrega un margen a la izquierda -->
+                    <i class="fa fa-x" aria-hidden="true"></i> Cierre de Ventas
+                </button>
+            </div>
+
+            <div class="card-body p-2 card-venta">
+                <div class="row">
+                    
+                    <div class="col-sm-3">
+                        <div class="input-group input-group-sm mb-2">
+                            <div class="input-group-prepend">
+                                <label class="input-group-text bg-info text-white" for="inputGroupSelect01">Fecha de Venta</label>
+                            </div>
+                            <input id="txtfechaventa" readonly type="datetime" class="form-control">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="card bg-info text-white border-info">
+                            <div class="card-body p-2">
+                                <div class="row">
+                                    <div class="col-sm-10">
+                                        <h6 class="card-title mb-1">Datos Negocio</h6>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="float-right">
+                                            <a class="btn btn-light btn-sm" data-toggle="collapse" href="#collapse1" role="button" aria-expanded="false" aria-controls="collapseExample">
+                                                <i class="fa fa-bars" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="row collapse" id="collapse1">
+                                    <input id="txtIdTienda" type="hidden" value="0" />
+                                    <input type="hidden" class="form-control form-control-sm model" readonly id="txtCodigoTienda" name="CodigoTienda">
+                                    
+
+                                    <div class="col-sm-5">
+                                        <div class="form-group mb-0">
+                                            <label for="txtNombreTienda" class="col-form-label col-form-label-sm">Nombre:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtNombreTienda" name="NombreTienda">
+                                        </div>
+                                    </div>
+
+
+                                    <div class="col-sm-5">
+                                        <div class="form-group mb-0">
+                                            <label for="txtTiendaDireccion" class="col-form-label col-form-label-sm">Direccion:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtTiendaDireccion" name="TiendaDireccion">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="card bg-info text-white border-info">
+                            <div class="card-body p-2">
+
+                                <div class="row">
+                                    <div class="col-sm-10">
+                                        <h6 class="card-title mb-1">Datos Empleado</h6>
+                                    </div>
+                                    <div class="col-sm-2">
+                                        <div class="float-right">
+                                            <a class="btn btn-light btn-sm" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapseExample">
+                                                <i class="fa fa-bars" aria-hidden="true"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="row collapse" id="collapse2">
+                                    <input id="txtIdUsuario" type="hidden" value="0" />
+
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="lblempleadonombre" class="col-form-label col-form-label-sm">Nombre:</label>
+                                            <label class="form-control form-control-sm model mb-1" readonly id="lblempleadonombre"></label>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-sm-4">
+                                        <div class="form-group mb-0">
+                                            <label for="TxtEmpleadoApellido" class="col-form-label col-form-label-sm">Apellido:</label>
+                                            <label class="form-control form-control-sm model mb-1" readonly id="TxtEmpleadoApellido"></label>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-sm-5">
+                                        <div class="form-group mb-0">
+                                            <label for="lblempleadocorreo" class="col-form-label col-form-label-sm">Correo:</label>
+                                            <label class="form-control form-control-sm model mb-1" readonly id="lblempleadocorreo"></label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                @*inicio cliente y mesa*@
+                <div class="row mt-2">
+                    <div class="col-sm-6">
+                        <div class="card border-info">
+                            <div class="card-body p-2">
+                                <h6 class="card-title mb-1 text-info">Detalle Venta</h6>
+                                <div class="d-flex justify-content-between">
+                                    
+                                    <div class="col-sm-4">
+                                        <form action="tu_controlador" method="post" class="form-group mb-0">
+
+                                            <div class="form-group">
+                                                <label for="opciones" class="col-form-label col-form-label-sm">Tipo de venta <span class="required"></span></label>
+                                                <select class="form-control form-control-sm model" id="opciones" name="opciones" autocomplete="off" onchange="miFuncion()">
+                                                </select>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <div class="form-group mb-0">
+                                        <button id="btnBuscarMesa" type="button" class="btn btn-sm btn-primary btn-block"><i class="fas fa-search"></i> Buscar Mesa</button>
+                                    </div>
+                                </div>
+
+                                <div class="row align-items-end" id="mesaformulario">
+
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="txtidmesa" class="col-form-label col-form-label-sm">Codigo: <span class="required"></span></label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtidmesa" name="Codigo" autocomplete="off">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="TxtNombreMesa" class="col-form-label col-form-label-sm">Mesa: <span class="required"></span> </label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="TxtNombreMesa" name="MesaNombre" autocomplete="off">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="form-group mb-0">
+                                            <label for="TxtCapacidad" class="col-form-label col-form-label-sm">Capacidad: <span class="required"></span></label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="TxtCapacidad" name="CapacidadMesa" autocomplete="off">
+                                        </div>
+                                    </div>
+
+                                </div>
+                                    <hr/>
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <div class="form-group mb-0">
+                                            <label for="TxtNombreCliente" class="col-form-label col-form-label-sm">Cliente: <span class="required"></span></label>
+                                            <input type="text" class="form-control form-control-sm model" id="TxtNombreCliente" name="Cliente" autocomplete="off">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-sm-4">
+                                        <div class="form-group mb-0">
+                                            @*<label hidden="hidden" for="TxtNombreCliente" class="col-form-label col-form-label-sm">Nombre del cliente: <span class="required"></span></label>*@
+                                            <input type="hidden" class="form-control form-control-sm model" id="TxtNombreUsuario" name="Cliente" autocomplete="off">
+                                        </div>
+                                    </div>
+
+                                </div>
+                                    
+                            </div>
+                        </div>
+                    </div>
+                    @*fin mesa y cliente*@
+
+
+                    @*Inicio Productos*@
+                    <div class="col-sm-6" id="BebidasInicio" >
+                        <div class="card border-info">
+                            <div class="card-body p-2">
+                                <h6 class="card-title mb-1 text-info">Detalle Producto</h6>
+                                <div class="d-flex justify-content-between">
+                                   
+                                    <div class=" mb-0">
+                                        <label for="txtStock" class="col-form-label col-form-label-sm">Stock:</label>
+                                        <input type="text" class="form-control form-control-sm model" readonly id="txtStock" name="Stock">
+                                    </div>
+                                    <div class="form-group mb-0">
+                                        <button id="btnBuscarProducto" type="button" class="btn btn-sm btn-primary btn-block" onclick="abrirPopUpForm(null)"><i class="fas fa-search"></i> Buscar Producto</button>
+                                    </div>
+                                </div>
+                                <div class="row align-items-end">
+                                    <input id="txtIdProducto" type="hidden" value="0" /> @*Id Producto*@
+                                    <input id="txtIdSuministro" type="hidden" value="0" /> @*Id Producto*@
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductocodigo" class="col-form-label col-form-label-sm">Codigo: <span class="required"></span></label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtproductocodigo" name="Codigo" autocomplete="off">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductonombre" class="col-form-label col-form-label-sm">Producto:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtproductonombre" name="Nombre">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductodescripcion" class="col-form-label col-form-label-sm">Descripcion:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtproductodescripcion" name="Descripcion">
+                                        </div>
+                                    </div>
+
+                                    
+                                </div>
+                                <div class="row">
+                                 
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductoprecioventa" class="col-form-label col-form-label-sm">Precio:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtproductoprecioventa" name="Nombre">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductocantidad" class="col-form-label col-form-label-sm">Cantidad: <span class="required"></span></label>
+                                            <input type="text" class="form-control form-control-sm model" id="txtproductocantidad" name="Descripcion" autocomplete="off">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="btnAsignar" class="col-form-label col-form-label-sm invisible">Buscar:</label>
+                                            <button id="btnAgregar" type="button" class="btn btn-sm btn-success btn-block"><i class="fa fa-plus" aria-hidden="true"></i>Agregar</button>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    @*fin productos*@
+
+                    @*Inicio Promocion*@
+                    <div class="col-sm-6" id="PromocionInicio" style="display:none;">
+                        <div class="card border-info">
+                            <div class="card-body p-2">
+                                <h6 class="card-title mb-1 text-info">Detalle Promocion</h6>
+                                <div class="d-flex justify-content-end">
+                                    <div class="form-group mb-0">
+                                        <button id="btnBuscarPromocion" type="button" class="btn btn-sm btn-primary btn-block" onclick="abrirPopUpForm(null)"><i class="fas fa-search"></i> Buscar Promocion</button>
+                                    </div>
+                                </div>
+                                <div class="row align-items-end">
+                                    <input id="txtIdProducto" type="hidden" value="0" /> @*Id Promocion*@
+                                    <input id="txtIdPromocion"  type="hidden" value="0" /> @*Id Promocion*@
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductopromocioncodigo" class="col-form-label col-form-label-sm">Codigo: <span class="required"></span></label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtproductopromocioncodigo" name="Codigo" autocomplete="off">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductopromocionnombre" class="col-form-label col-form-label-sm">Promocion:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtproductopromocionnombre" name="Nombre">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductopromociondescripcion" class="col-form-label col-form-label-sm">Descripcion:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtproductopromociondescripcion" name="Descripcion">
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                                <div class="row">
+                                    
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductopromocionprecioventa" class="col-form-label col-form-label-sm">Precio:</label>
+                                            <input type="text" class="form-control form-control-sm model" readonly id="txtproductopromocionprecioventa" name="Nombre">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="txtproductopromocioncantidad" class="col-form-label col-form-label-sm">Cantidad: <span class="required"></span></label>
+                                            <input type="text" class="form-control form-control-sm model" id="txtproductopromocioncantidad" name="Descripcion" autocomplete="off">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <div class="form-group mb-0">
+                                            <label for="btnAsignar" class="col-form-label col-form-label-sm invisible">Buscar:</label>
+                                            <button id="btnAgregarPromocion" type="button" class="btn btn-sm btn-success btn-block"><i class="fa fa-plus" aria-hidden="true"></i>Agregar</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-sm-12"><h6 class="text-info">Detalle Productos</h6></div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-sm-12">
+                        <div class="table-responsive-sm">
+                            <table id="tbVenta" class="table table-striped table-bordered nowrap table-sm" style="width:100%; ">
+                                <thead>
+                                    <tr>
+                                        <th></th>
+                                        <th>Cantidad</th>
+                                        <th>Producto </th>
+                                        <th>Descripcion</th>
+                                        <th>Precio Unidad</th>
+                                        <th>Importe Total</th>
+                                        @*<th id="prom" class="oculto">Promocion</th>*@
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+
+                    </div>
+                </div> 
+
+                <hr />
+                <div class="col-sm-3">
+                    <div class="input-group input-group-sm mb-3">
+                        <div class="input-group-prepend">
+                            <label for="cboTipoPago"  class="input-group-text bg-info text-white">Tipo de Pago <span class="required"></span></label>
+                        </div>
+                        <select class="form-control form-control-sm model" id="cboTipoPago" name="tipoPago" autocomplete="off" onchange="TipoPagoSelect()">
+                            <option value="Efectivo">Efectivo</option>
+                            <option value="Tarjeta">Tarjeta</option>
+                        </select>
+                    </div>
+                </div>
+                <hr />
+                <div class="col ">
+                    <div class="d-flex justify-content-between">
+                        <div class="row">
+                            <div class="col-sm-5">
+                                <div class="input-group input-group-sm mb-2">
+                                    <div class="input-group-prepend">
+                                        <label class="input-group-text bg-info text-white" for="inputGroupSelect01">Sub Total C$/.</label>
+                                    </div>
+                                    <input id="txtsubtotal" readonly type="text" class="form-control" value="0">
+                                </div>
+                            </div>
+                          @*   <div class="col-sm-3">
+                                <div class="input-group input-group-sm mb-2">
+                                    <div class="input-group-prepend">
+                                        <label class="input-group-text bg-info text-white" for="inputGroupSelect01">Descuento %.</label>
+                                    </div>
+                                    <input id="txtdescuento"  type="text" class="form-control" >
+                                </div>
+                            </div> *@
+                            
+                            <div class="col-sm-4">
+                                <div class="input-group input-group-sm mb-2">
+                                    <div class="input-group-prepend">
+                                        <label class="input-group-text bg-info text-white" for="inputGroupSelect01">Total C$/.</label>
+                                    </div>
+                                    <input id="txttotal" readonly type="text" class="form-control" value="0">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-flex justify-content-end">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div class="input-group input-group-sm mb-2">
+                                    <div class="input-group-prepend">
+                                        <label class="input-group-text bg-info text-white" for="inputGroupSelect01">Monto Pago C$/.</label>
+                                    </div>
+                                    <input id="txtmontopago" type="text" class="form-control" autocomplete="off">
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <button id="btncalcular" type="button" class="btn btn-sm btn-success btn-block"><i class="fas fa-dollar-sign"></i>  Calcular</button>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="input-group input-group-sm mb-2">
+                                    <div class="input-group-prepend">
+                                        <label class="input-group-text bg-info text-white" for="inputGroupSelect01">Cambio C$/.</label>
+                                    </div>
+                                    <input id="txtcambio" readonly type="text" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+       
+       
+    </div>
+</div>
+
+
+
+
+<!-- Modal de Cierre venta-->
+<div class="modal fade" id="modalCierre" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title" id="exampleModalLongTitle">Cierre del dia</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="Atras" class="tabcontent">
+                    <div class="card border-info mb-2">
+                        <div class="card-body p-2">
+                        <h6 class="card-title mb-1 text-info">Productos</h6>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="table-responsive">
+                        <table id="tbReporteProducto" class="table table-striped table-bordered table-sm table-responsive-sm" style="width:100%">
+                            <thead>
+                                <tr>
+                                    <th>Producto</th>
+                                    <th>Cantidad Vendida</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+                <div id="Siguiente" class="tabcontent">
+                    <div class="card border-info mb-2">
+                        <div class="card-body p-2">
+                            <h6 class="card-title mb-1 text-info">Ingredientes</h6>
+                        </div>
+                    </div>
+                    <div class="table-responsive" id="tbl">
+
+
+                        <p><button id="btnSubmit" class="btn btn-success" type="submit">Guardar</button></p>
+                     
+
+                        <table id="tRptIngre" class="display" style="width:100%">
+                            <thead>
+                                <tr>
+                                    <th>Id</th>
+                                    <th>Nombre</th>
+                                    <th>Stock</th>
+                                    <th>*</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                         </table>
+                    </div>
+                    <hr />
+                    <div id="Reporte">
+                        <div class="table-responsive">
+                            <table id="tRptIngrediente" class="table table-striped table-bordered table-sm table-responsive-sm" style="width:100%; display:none;">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Nombre</th>
+                                        <th>Se Ocupó</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+
+
+                </div>
+               
+            </div>
+            <div class="tabs" style="display: flex; justify-content: flex-end;">
+                <label class="tablink active" onclick="openTab('Atras')">Atras</label>
+                <label class="tablink" onclick="openTab('Siguiente')">Siguiente</label>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- MODAL Bebidas -->
+<div class="modal fade" id="modalBebida" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title">Bebidas</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="d-flex justify-content-between">
+                <div class="col-sm-4 text-center mx-auto">
+                    <button type="button" class="btn btn-sm btn-primary" onclick="buscarPlatillo()" id="btnIngredientesClick">
+                        <i class="fa fa-plus" aria-hidden="true"></i>Platillos
+                    </button>
+                </div>
+                <div class="col-sm-4 text-center mx-auto" style=" padding: 5px;">
+                    <button type="button" class="btn btn-sm btn-primary" onclick="buscarPromocion()" id="btnIngredientesClick">
+                        <i class="fa fa-plus" aria-hidden="true"></i> Promociones
+                    </button>
+                </div>
+            </div>
+            
+            <div class="modal-body">
+
+                <div class="table-responsive">
+                    <table id="tbBebida" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Stock</th>
+                                <th>Codigo</th>
+                                <th>Suministro</th>
+                                <th>Nombre</th>
+                                <th>Descripcion</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<!-- MODAL Platillo -->
+<div class="modal fade" id="modalPlatillo" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title">Platillos</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="d-flex justify-content-between">
+                <div class="col-sm-4 text-center mx-auto">
+                    <button type="button" class="btn btn-sm btn-primary" onclick="buscarBebida()" id="btnIngredientesClick">
+                        <i class="fa fa-plus" aria-hidden="true"></i> Bebidas
+                    </button>
+                </div>
+                <div class="col-sm-4 text-center mx-auto" style=" padding: 5px;">
+                    <button type="button" class="btn btn-sm btn-primary" onclick="buscarPromocion()" id="btnIngredientesClick">
+                        <i class="fa fa-plus" aria-hidden="true"></i> Promociones
+                    </button>
+                </div>
+            </div>
+            <div class="modal-body">
+
+                <div class="table-responsive">
+                    <table id="tbPlatillo" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Codigo</th>
+                                <th>Platillo</th>
+                                <th>Descripcion</th>
+                               
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@*MODAL PROMOCIONES*@
+<div class="modal fade" id="modalPromocion" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title">Promociones</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="d-flex justify-content-between">
+                <div class="col-sm-4 text-center mx-auto">
+                    <button type="button" class="btn btn-sm btn-primary" onclick="buscarBebida()" id="btnIngredientesClick">
+                        <i class="fa fa-plus" aria-hidden="true"></i> Bebidas
+                    </button>
+                </div>
+                <div class="col-sm-4 text-center mx-auto" style=" padding: 5px;">
+                    <button type="button" class="btn btn-sm btn-primary" onclick="buscarPlatillo()" id="btnIngredientesClick">
+                        <i class="fa fa-plus" aria-hidden="true"></i> Platillos
+                    </button>
+                </div>
+            </div>
+            
+            <div class="modal-body">
+
+                <div class="table-responsive">
+                    <table id="tbPromocion" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Promocion</th>
+                                <th>Precio</th>
+                                <th>Dias</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- MODAL MESAS -->
+<div class="modal fade" id="modalMesa" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title">Mesas</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="table-responsive">
+                    <table id="tbmesa" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Nombre mesa</th>
+                                <th>capacidad</th>
+                                <th>estado</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Off-Canvas Para Mostrar Productos -->
+<div id="offcanvasMenu" class="offcanvas" style="z-index:10000" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+
+    <div class="modal-header  bg-info text-white">
+        <h5 class="modal-title text-center" id="lblPromo"></h5>
+        <button id="closeMenuBtn" type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="card border-info mt-2">
+        <div class="card-body p-2">
+            <h6 class="card-title mb-1 text-center">Productos</h6>
+            <hr />
+            <div class="col-sm-12 NoDesbordar">
+                <table id="tbProductosP" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Codigo Producto</th>
+                            <th>Producto</th>
+                            <th>Cantidad</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+
+    <partial name="_ValidationScriptsPartial" />
+     <script src="~/js/Venta.js"></script> 
+}

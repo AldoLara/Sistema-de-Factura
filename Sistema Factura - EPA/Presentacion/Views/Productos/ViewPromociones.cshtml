@@ -1,0 +1,317 @@
+﻿@{
+    ViewBag.Title = "Promociones";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- CSS de Bootstrap -->
+<h2 class="card-header bg-info text-white mb-4" id="overlay">Promociones</h2>
+
+
+
+
+
+<div class="content-wrapper" style="padding:10px" id="overlay3">
+    <div class="col-sm-12">
+        <div class="card border-info">
+            <div class="card-header bg-info text-white">
+                Detalles
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <button type="button" class="btn btn-sm btn-success" onclick="abrirPopUpForm(null)"><i class="fa fa-plus" aria-hidden="true"></i> Agregar Nuevo</button>
+                    </div>
+                </div>
+              
+                <hr />
+                <div class="row mt-3">
+                    <div class="col-sm-12 NoDesbordar">
+                        <table id="tbdata" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                            <thead>
+                                <tr>
+                                    <th>Código</th>
+                                    <th>Nombre</th>
+                                    <th>Precio</th>
+                                    <th>Dias</th>
+                                    <th>Estado</th>
+                                    <th>Acciónes</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="FormModal" tabindex="-1" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+        <div class="modal-content">
+            <div class="modal-header btn-info text-white">
+                <h5 class="modal-title" id="exampleModalLabel">Detalles</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" >
+               
+                <form id="form">
+                    <input type="hidden" class="form-control form-control-sm model" id="txtid" name="CodigoProducto">
+                <input type="hidden" class="form-control form-control-sm model" id="txtIdProducto" name="">
+                <input type="hidden" class="form-control form-control-sm model" id="txtIdPromo" name="">
+
+                    <div class="card border-info">
+                        <div class="card-body p-2">
+                            <h6 class="card-title mb-1 text-info">Promoción</h6>
+                            <div class="form-group row">
+                                <div class="col-sm-6">
+                                    <label for="txtNombrePromocion" class="col-form-label col-form-label-sm">Nombre: <span class="error"></span></label>
+                                <input type="text" class="form-control form-control-sm model" id="txtNombrePromocion" name="NombrePromocion">
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="txtPrecioPromocion" class="col-form-label col-form-label-sm">Precio: <span class="error"> C$.</span></label>
+                                <input type="text" class="form-control form-control-sm model" id="txtPrecioPromocion" name="PrecioPromocion" placeholder="00.00">
+                                </div>
+                            </div>
+
+                            <div class="form-group row">
+                                <div class="col-sm-6">
+                                    <label for="cboDias" class=" col-form-label col-form-label-sm">Dias:</label>
+                                    <div id="cboDias" class="d-flex flex-column">
+                                        <div class="d-flex">
+                                            <div class="mr-3">
+                                                <input type="checkbox" name="Lunes" id="lunes" class="label-sm">
+                                                <label for="lunes" class="small">Lunes</label>
+                                            </div>
+                                            <div class="mr-3">
+                                                <input type="checkbox" name="Martes" id="martes" class="label-sm">
+                                                <label for="martes" class="small">Martes</label>
+                                            </div>
+                                            <div class="mr-3">
+                                                <input type="checkbox" name="Miercoles" id="miercoles" class="label-sm">
+                                                <label for="miercoles" class="small">Miércoles</label>
+                                            </div>
+                                            <div>
+                                                <input type="checkbox" name="Jueves" id="jueves" class="label-sm">
+                                                <label for="jueves" class="small">Jueves</label>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex mt-3">
+                                            <div class="mr-3">
+                                                <input type="checkbox" name="Viernes" id="viernes" class="label-sm">
+                                                <label for="viernes" class="small">Viernes</label>
+                                            </div>
+                                            <div class="mr-3">
+                                                <input type="checkbox" name="Sabado" id="sabado" class="label-sm">
+                                                <label for="sabado" class="small">Sábado</label>
+                                            </div>
+                                            <div>
+                                                <input type="checkbox" name="Domingo" id="domingo" class="label-sm">
+                                                <label for="domingo" class="small">Domingo</label>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="cboEstado" class=" col-form-label col-form-label-sm">Estado:</label>
+                                    <select class="form-control form-control-sm model" id="cboEstado" name="Activo">
+                                        <option value="1">Activo</option>
+                                        <option value="0">Inactivo</option>
+                                    </select>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </form>
+                    <div class="card border-info mt-2">
+                        <div class="card-body p-2">
+                            <h6 class="card-title mb-1 text-info">Productos</h6>
+                            <div class="row">
+                                <div class="col-sm-2">
+                                    <div class="form-group mb-0">
+                                        <label for="txtCodigoProducto" class="col-form-label col-form-label-sm">Código:</label>
+                                        <input type="text" class="form-control form-control-sm model" readonly id="txtCodigoProducto" name="Codigo" autocomplete="off">
+                                    </div>
+                                </div>
+                               
+                                <div class="col-sm-3">
+                                    <div class="form-group mb-0">
+                                        <label for="txtNombreProducto" class="col-form-label col-form-label-sm">Nombre:</label>
+                                        <input type="text" class="form-control form-control-sm model" readonly id="txtNombreProducto" name="Nombre">
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="form-group mb-0">
+                                        <label for="btnBuscarTienda" class="col-form-label col-form-label-sm invisible">Buscar:</label>
+                                        <button id="btnBuscarProducto" type="button" class="btn btn-sm btn-success btn-block" onclick="abrirPopUpForm2(null)"><i class="fas fa-search"></i> Buscar</button>
+                                    </div>
+                                </div>
+                                <div class="col-sm-2">
+                                    <div class="form-group mb-0">
+                                        <label for="txtCantidadProducto" class="col-form-label col-form-label-sm">Cantidad:</label>
+                                        <input type="text" class="form-control form-control-sm model" id="txtCantidadProducto" name="CantidadProducto">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row mt-2">
+                                <div class="col-sm-12">
+                                    <button id="btnAgregar" class="btn btn-primary btn-sm float-right">
+                                        <i class="fas fa-plus"></i> Agregar
+                                    </button>
+                                </div>
+
+                            </div>
+                            
+                        </div>
+                    </div>
+                <div class="row mt-3" id="divProductos">
+                    <div class="col-sm-12">
+                        <table id="tbproducto" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                            <thead>
+                                <tr>
+                                    <th></th>
+                                    <th>Código</th>
+                                    <th>Producto</th>
+                                    <th>Cantidad</th>
+                                   
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+                <button  class="btn btn-sm btn-primary" id="btnGuardar">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<!-- MODAL Bebidas -->
+<div class="modal fade" id="modalBebida" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title">Bebidas</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="text-center mx-auto">
+                <button type="button" class="btn btn-sm btn-primary" onclick="buscarComidas()" id="btnIngredientesClick">
+                    <i class="fa fa-plus" aria-hidden="true"></i> Platillos
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="col-sm-12 NoDesbordar">
+                    <table id="tbBebida" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Código</th>
+                                <th>Suministro</th>
+                                <th>Nombre</th>
+                                <th>Descripción</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- MODAL COmidas -->
+<div class="modal fade" id="modalComida" role="dialog" data-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title">Platillos</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class=" text-center mx-auto">
+                <button type="button" class="btn btn-sm btn-primary" onclick="buscarBebida()" id="btnComidasClick">
+                    <i class="fa fa-plus" aria-hidden="true"></i> Bebidas
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="col-sm-12">
+                    <table id="tbComida" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Código</th>
+                                <th>Suministro</th>
+                                <th>Nombre</th>
+                                <th>Descripción</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Off-Canvas Para Mostrar Productos -->
+<div id="offcanvasMenu" class="offcanvas">
+
+    <div class="modal-header  bg-info text-white">
+        <h5 class="modal-title text-center" id="lblPromo"></h5>
+        <button id="closeMenuBtn" type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="card border-info mt-2">
+        <div class="card-body p-2">
+            <h6 class="card-title mb-1 text-center">Productos</h6>
+            <hr />
+            <div class="col-sm-12 NoDesbordar">
+                <table id="tbProductosP" class="table table-striped table-bordered nowrap compact" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Código Producto</th>
+                            <th>Producto</th>
+                            <th>Cantidad</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+
+    <partial name="_ValidationScriptsPartial" />
+     <script src="~/js/Promociones.js"></script>
+    <!-- JavaScript de Bootstrap -->
+}

@@ -1,0 +1,23 @@
+﻿@using Presentacion.Models;
+@inject SignInManager<ApplicationUser> SignInManager
+@{
+    var hasExternalLogins = (await SignInManager.GetExternalAuthenticationSchemesAsync()).Any();
+}
+
+<div class="row">
+    <div class="col-10">
+        <div class="list-group" id="list-tab" role="tablist">
+            <a class="list-group-item list-group-item-action @ManageNavPages.IndexNavClass(ViewContext)" data-bs-toggle="list" asp-page="./Index" role="tab">Perfil</a>
+            <a class="list-group-item list-group-item-action @ManageNavPages.EmailNavClass(ViewContext)" id="email" data-bs-toggle="list" asp-page="./Email" role="tab">Email</a>
+            <a class="list-group-item list-group-item-action @ManageNavPages.ChangePasswordNavClass(ViewContext)" id="change-password" data-bs-toggle="list" asp-page="./ChangePassword" role="tab">Contraseña</a>
+
+            @if (hasExternalLogins)
+            {
+                <a class="list-group-item list-group-item-action @ManageNavPages.ExternalLoginsNavClass(ViewContext)" data-bs-toggle="list" asp-page="./ExternalLogins" role="tab">Inicios de sesión externos</a>
+            }
+
+            <a class="list-group-item list-group-item-action @ManageNavPages.TwoFactorAuthenticationNavClass(ViewContext)" data-bs-toggle="list" asp-page="./TwoFactorAuthentication" role="tab">Autenticación de dos factores</a>
+            <a class="list-group-item list-group-item-action @ManageNavPages.PersonalDataNavClass(ViewContext)" data-bs-toggle="list" asp-page="./PersonalData" role="tab">Información personal</a>
+        </div>
+    </div>
+</div>

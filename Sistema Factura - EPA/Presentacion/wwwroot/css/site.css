@@ -1,0 +1,89 @@
+﻿.sectionimg {
+    position: relative;
+    background: url(/img/Epa.jpg);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+    .sectionimg::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: -1; 
+    }
+
+.contenedor {
+    width: 100%;
+    padding: 15px;
+}
+
+.formulario {
+    background: #fff;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 3px;
+}
+.h1Form {
+    text-align: center;
+    color: #1a2537;
+    font-size: 40px;
+}
+.inputTipo{
+    font-size: 20px;
+    width: 82%;
+    padding: 10px;
+    border: none;
+}
+
+.input-contenedor {
+    margin-bottom: 15px;
+    border: 1px solid #aaa;
+}
+
+.icon {
+    min-width: 50px;
+    text-align: center;
+    color: #999;
+}
+
+.button {
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    background: #1a2537;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .button:hover {
+        background: #007bffe4;
+    }
+
+
+
+.link {
+    text-decoration: none;
+    color: #1a2537;
+    font-weight: 600;
+}
+
+    .link:hover {
+        color: cadetblue;
+    }
+
+@media(min-width:768px) {
+    .formulario {
+        margin: auto;
+        width: 500px;
+        margin-top: 150px;
+        border-radius: 2%;
+    }
+}
+
